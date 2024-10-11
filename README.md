@@ -4,4 +4,4 @@ A simple currency converter web app that fetches live exchange rates from an API
 
 ## Live Demo
 
-[Live Demo](https://shahenda-elshayal.github.io/currency-converter-app/)
+[View Live Demo](https://shahenda-elshayal.github.io/currency-converter-app/)
